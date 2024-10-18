@@ -38,6 +38,7 @@ p {
 }
 
 hr {
+    font-size: 2em;
     border: none;
     background-color: lightgray;
     height: 1px;
